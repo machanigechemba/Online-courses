@@ -1,2 +1,2 @@
 # Redi_git
-Hi there, this repository is for learning git
+Hi there, this repository is for online data analytics / data science courses.
